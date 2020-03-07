@@ -1,37 +1,5 @@
-## Welcome to GitHub Pages
+## willirath.github.io/blog
 
-You can use the [editor on GitHub](https://github.com/willirath/blog/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+- [How to self-publish your talk or poster presentation as a video](posts/2020-03-07-how-to-create-and-publish-videos-of-conference-contributions)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/willirath/blog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [Using actors to manage model simulations with Dask.distributed](https://medium.com/@rath.willi/towards-using-dask-distributeds-actors-for-managing-model-simulations-1126dff2bc6?source=friends_link&sk=631c3fbfcfe8a8ad729c8895193692b2)
